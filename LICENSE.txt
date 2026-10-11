@@ -1,0 +1,147 @@
+MSME READINESS AGENT
+END-USER LICENCE TERMS
+
+Version 1.0 of these terms, 11 October 2026
+
+These terms are an agreement between Selfevolvia ("the publisher") and the
+person or enterprise that installs or uses the MSME Readiness Agent ("the
+program"). By installing or using the program you accept them. If you install
+it for an enterprise, you accept them for that enterprise and confirm that you
+may do so. If you do not accept them, do not install or use the program.
+
+1. WHAT YOU MAY DO
+
+The publisher grants you a non-exclusive, non-transferable licence to install
+the program on computers at your own premises and to use it to assess the
+readiness of your own enterprise against the guidelines it carries. You may
+keep copies of the installer for backup and for reinstalling. These terms ask
+no fee. A separate written agreement with the publisher may add fees, support
+or other conditions; where it differs from these terms, it prevails.
+
+2. WHAT YOU MAY NOT DO
+
+You may not (a) reverse engineer, decompile or disassemble the program, except
+to the extent that the law applicable to you allows this despite these terms;
+(b) remove or alter any copyright, licence or other notice in the program;
+(c) rent, lease, lend, sell or sublicense the program, or offer it to others
+as a service; (d) distribute the program, or any file that is part of it,
+separately from the complete, unchanged installer; (e) alter a guideline pack,
+or get round the check of a pack's signature or of the program's update
+information; (f) use the program in a way that breaks the law.
+
+3. THIRD-PARTY COMPONENTS
+
+The program contains software from others. The file THIRD-PARTY-NOTICES.txt in
+the program folder, also shown in the program under Setup, Help and support,
+lists every such component and its licence, and the folder "licenses" holds
+the licence files those components carry.
+
+Open-source components are licensed to you by their authors under their own
+licences. Nothing in these terms limits a right those licences give you for
+those components; for them, their licence prevails over these terms.
+
+The program includes Microsoft.Data.SqlClient.SNI.dll, which belongs to
+Microsoft Corporation and is not open source. You may use it only as part of
+the program. You may not distribute it by itself, reverse engineer it except
+where the law allows this despite these terms, remove its notices, or use it
+contrary to export law. Microsoft gives you no warranty and no support for it
+and has no liability to you under these terms.
+
+The installer contains a library of the WiX Toolset, which stays under the
+Microsoft Reciprocal License; its source and licence are identified in
+THIRD-PARTY-NOTICES.txt.
+
+4. WHAT THE PROGRAM IS, AND WHAT IT IS NOT
+
+The program reads values from machines, meters and plant software and compares
+what it measures with line items of published Indian government guidelines.
+It reports READINESS. It does not certify anything, and a result of "ready" is
+not a certificate, a rating, an approval or a registration under the ZED
+scheme, the MSME Competitive (Lean) Scheme, any programme of the Bureau of
+Energy Efficiency, any assessment of the National Productivity Council, or any
+other scheme. Only the body that runs a scheme can decide under it.
+
+The guideline packs were compiled by the publisher from documents the issuing
+bodies have published. They may contain mistakes, may be incomplete, and may
+fall behind a later edition. The source of every line item is named in the
+program so that you can read the original. Unless a pack says otherwise, the
+packs are not issued, approved or endorsed by any ministry or government body.
+
+What the program reports depends on how it was set up and on the data it
+receives. A wrong address, unit, scale or shift time gives a wrong result.
+Check a result before you act on it or submit it to anyone.
+
+The program only reads from your equipment; it is built with no function that
+writes to a machine or controller. It is not a control or safety system and
+must not be relied on to operate, protect or stop any machine, process or
+person.
+
+5. YOUR DATA
+
+Measurements, settings and reports are stored on the computer where the
+program is installed. The program sends information to a dashboard only after
+someone at your enterprise enrols it with a code issued for that dashboard;
+what is then sent is the readiness report: the status, measured value and data
+coverage of each line item, with the identity of the enterprise and of the
+installation. Raw machine readings are not sent. The program looks for update
+information on the internet only if an administrator of the computer turns
+that on. You are responsible for who can reach the computer, for its
+passwords, and for your own backups.
+
+6. UPDATES AND SUPPORT
+
+These terms do not oblige the publisher to provide updates, corrections,
+support or new guideline packs. Anything of that kind that the publisher does
+provide is covered by these terms unless it comes with its own.
+
+7. OWNERSHIP
+
+The program is licensed, not sold. The publisher and its licensors keep all
+rights in it that these terms do not expressly give you. The names and marks
+of government bodies and schemes, and of makers of equipment and software,
+belong to their owners and are used only to say what the program works with.
+
+8. NO WARRANTY
+
+To the fullest extent the law allows, the program and the guideline packs are
+provided "as is" and "as available", without warranty or condition of any
+kind, express or implied, including of merchantability, fitness for a
+particular purpose, accuracy, non-infringement, or uninterrupted or error-free
+operation. Rights that the law gives you and that cannot be excluded by
+agreement are not affected.
+
+9. LIMIT OF LIABILITY
+
+To the fullest extent the law allows: (a) the publisher and its licensors are
+not liable for loss of production, loss of profit, revenue, business or data,
+the cost of a failed or delayed certification, assessment, subsidy or tender,
+or any indirect, special, incidental or consequential loss, however caused and
+even if told it might occur; and (b) the total liability of the publisher and
+its licensors for everything connected with the program is limited to the
+amount you paid the publisher for the program in the twelve months before the
+claim arose, or ten thousand Indian rupees, whichever is more. Nothing in
+these terms limits liability that cannot be limited by law.
+
+10. ENDING THE LICENCE
+
+The licence lasts until it ends. It ends without notice if you break these
+terms. You may end it at any time by removing the program from all your
+computers. When it ends you must stop using the program and remove it.
+Sections 2, 3 and 7 to 12 continue after it ends.
+
+11. LAW AND COURTS
+
+These terms are governed by the laws of India. The courts at the place of the
+publisher's registered office in India have exclusive jurisdiction over any
+dispute connected with them, except that the publisher may seek an order to
+protect its rights in any court that can grant one.
+
+12. GENERAL
+
+You must follow the export and other laws that apply to your use of the
+program. If a part of these terms cannot be enforced, the rest stays in force.
+A failure to enforce a term is not a waiver of it. You may not transfer this
+licence without the publisher's written consent. These terms, together with
+any separate written agreement mentioned in section 1, are the whole agreement
+about the program. Questions about them go to whoever supplied the program to
+you, or to the publisher.
