@@ -1,0 +1,35 @@
+{
+  "product": "msme-readiness-agent",
+  "latest": "1.0.1",
+  "released": "2026-10-11",
+  "minimum_supported": "1.0.0",
+  "notes_url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/tag/v1.0.1",
+  "download_url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.0.1/MsmeReadinessAgent-1.0.1.msi",
+  "msi_sha256": "e2fd29c77c48b035bb57a2baf67531e7f589d75e9e5b8ee0c532aaca8f2cb058",
+  "packs": [
+    {
+      "pack_id": "bee",
+      "version": "1.0.0",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.0.1/bee.gpack",
+      "sha256": "1c501b3fabd58ce28d657b7f71eb1eba0398cdc07f0fbb89e722298cbaddbde5"
+    },
+    {
+      "pack_id": "bharat40",
+      "version": "1.0.0",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.0.1/bharat40.gpack",
+      "sha256": "89f00f877e58ef409500f87e834cd4759f7f0d18c52d8f37833a13986d142e91"
+    },
+    {
+      "pack_id": "lean",
+      "version": "1.0.0",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.0.1/lean.gpack",
+      "sha256": "6239a07c33052059440b387d3ddabfe87db1418ddf7175a69041fd9b66a515d9"
+    },
+    {
+      "pack_id": "zed",
+      "version": "1.0.0",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.0.1/zed.gpack",
+      "sha256": "153d127fbfc6f63f4b4c1401d62600d61baa53e1251bc38de655046267885bb3"
+    }
+  ]
+}
