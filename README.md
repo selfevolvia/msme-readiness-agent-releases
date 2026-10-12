@@ -2,8 +2,10 @@
 
 Released installers of the MSME Readiness Agent, a Windows program that reads machine
 data read-only on an MSME's shop floor and reports the enterprise's readiness against
-line items of Indian government guidelines (ZED, MSME Lean, BEE energy, NPC Bharat 4.0).
-It reports readiness; it does not certify.
+line items of Indian government publications: ZED certification, the MSME Competitive
+(Lean) Scheme, BEE energy guidance, NPC Bharat 4.0, NPC's smart-manufacturing kit
+requirements, and state electricity tariff orders. Every line item names its document,
+edition, page and web address. It reports readiness; it does not certify.
 
 This repository holds no source code. It is written to by the publisher's release
 procedure only.
@@ -25,9 +27,16 @@ procedure only.
 4. Open **MSME Readiness Agent** from the Start menu (`http://127.0.0.1:8750/`) and
    follow Setup.
 
-Windows 10, Windows 11 or Windows Server 2019 and later, 64-bit. The four guideline
+Windows 10, Windows 11 or Windows Server 2019 and later, 64-bit. The six guideline
 packs are inside the installer; the `.gpack` files of a release are for adding a newer
 pack to an installed program (Setup → Guideline packs).
+
+## Handbooks
+
+Each release carries four PDF handbooks: `msme-handbook.pdf` and `officer-handbook.pdf`
+in English, and `msme-handbook.hi.pdf` and `officer-handbook.hi.pdf` in Hindi. The MSME
+handbook covers installing, connecting machines and SCADA, and reading the report. The
+officer handbook lists every government document the packs were compiled from.
 
 ## Update notice
 
