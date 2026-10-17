@@ -1,46 +1,46 @@
 {
   "product": "msme-readiness-agent",
-  "latest": "1.1.0",
-  "released": "2026-10-12",
+  "latest": "1.1.1",
+  "released": "2026-10-17",
   "minimum_supported": "1.0.0",
-  "notes_url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/tag/v1.1.0",
-  "download_url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.0/MsmeReadinessAgent-1.1.0.msi",
-  "msi_sha256": "fef3617598a0a10dc1a7a4a65f63ad1c4bd0d948caa85035ff4e8bd79caacc96",
+  "notes_url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/tag/v1.1.1",
+  "download_url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.1/MsmeReadinessAgent-1.1.1.msi",
+  "msi_sha256": "a68d5900dd02e7ac7a40ebae8bbd3360c9635a63af03caca968dc0ac82262b4a",
   "packs": [
     {
       "pack_id": "bee",
       "version": "1.1.0",
-      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.0/bee.gpack",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.1/bee.gpack",
       "sha256": "56bab02d64d0dfb183578e0b4b570b9553f56191719c23081696fc89f26701b7"
     },
     {
       "pack_id": "bharat40",
       "version": "1.1.0",
-      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.0/bharat40.gpack",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.1/bharat40.gpack",
       "sha256": "e8bd2eda51f14b106eeef05bd71e5acef3230df0f1471c64e0daff3247c98172"
     },
     {
       "pack_id": "lean",
       "version": "1.1.0",
-      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.0/lean.gpack",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.1/lean.gpack",
       "sha256": "d4bd5c3d9ad3ee0ca6e22a88144107a91887208f98aed8d51f5d1f9e5b29217e"
     },
     {
       "pack_id": "npc-simkit",
       "version": "1.1.0",
-      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.0/npc-simkit.gpack",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.1/npc-simkit.gpack",
       "sha256": "c49458c8847dd8f4e0d1d074cd95d3ee8f83b2c2c98c373c48947b01933a14dd"
     },
     {
       "pack_id": "tariff",
       "version": "1.1.0",
-      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.0/tariff.gpack",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.1/tariff.gpack",
       "sha256": "f1b4d55a627a561fe3429700feed83b37d88ae326b16ca8603f8dd2c68b79528"
     },
     {
       "pack_id": "zed",
       "version": "1.1.0",
-      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.0/zed.gpack",
+      "url": "https://github.com/selfevolvia/msme-readiness-agent-releases/releases/download/v1.1.1/zed.gpack",
       "sha256": "5ff12416658fae6f32fbbf3334d1476fc09c04adfef4879b218058b6ae2ed7e4"
     }
   ]
